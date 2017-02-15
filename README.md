@@ -1,3 +1,3 @@
 # Hello-World
 Hola Mundo
-Empezando con el curso de Diseñode sitios web!
+Empezando con el curso de Diseños de sitios web!
